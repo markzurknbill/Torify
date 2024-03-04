@@ -6,7 +6,7 @@ ___________          .__  _____
   |____| \____/|__|  |__||__|  / ____|
                                \/
   v1.1 - Security007
-  Auto Rotate TOR IP Address
+  Auto Rotate Ip Address With TOR Proxy
 ```
 
 ![Static Badge](https://img.shields.io/badge/Support-Windows%2010/11-blue)
